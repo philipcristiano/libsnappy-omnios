@@ -1,0 +1,5 @@
+libsnappy-omnios
+
+Build script for libsnappy IPS that can be used with the OmniOS build repo
+
+You can fork this then add as a submodule into omnios-build/libsnappy
