@@ -42,8 +42,6 @@ PATH=$PATH:/opt/gcc-4.8.1/bin/
 
 download_source() {
     BUILDDIR=libsnappy_build
-    echo $TMPDIR
-    echo $BUILDDIR
     mkdir -p $TMPDIR/$BUILDDIR
     pushd $TMPDIR/$BUILDDIR
 
